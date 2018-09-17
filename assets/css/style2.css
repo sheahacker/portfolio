@@ -48,27 +48,27 @@ h1 {
   font-family: Palantino;
   text-align: center;
   margin-top: 200px;
-  margin-bottom: 100px;
+  margin-bottom: 0px;
   text-attachment: fixed;
-color: white;
+color: pink;
 }
 
 h3 {
   font-family: Palantino;
   text-align: center;
   margin-top: 100px;
-  margin-bottom: 50px;
+  margin-bottom: 0px;
   text-attachment: fixed;
-color: white;
+color: black;
 }
 
 h4 {
   font-family: Palantino;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 10px;
   margin-bottom: 0px;
   text-attachment: fixed;
-color: white;
+color: black;
 }
 
 h5 {
@@ -77,20 +77,20 @@ h5 {
   margin-top: 0px;
   margin-bottom: 500px;
   text-attachment: fixed;
-color: white;
+color: black;
 }
 
 p {
   font-family: Palantino;
   text-align: center;
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   text-attachment: fixed;
-color: white;
+color: black;
 }
 
 .parallax {
-  background-image:  url("assets/img/sunset.jpg"
+  background-image:  url("assets/img/pink.jpg"
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
