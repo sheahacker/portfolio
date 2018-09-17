@@ -71,7 +71,7 @@ h4 {
 color: white;
 }
 
-h5{
+h5 {
   font-family: Palantino;
   text-align: center;
   margin-top: 0px;
@@ -79,6 +79,16 @@ h5{
   text-attachment: fixed;
 color: white;
 }
+
+p {
+  font-family: Palantino;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 10px;
+  text-attachment: fixed;
+color: white;
+}
+
 .parallax {
   background-image:  url("assets/img/sunset.jpg"
   background-attachment: fixed;
